@@ -1,0 +1,24 @@
+.content-wrapper--boxed
+{
+	padding: 0;
+}
+.footer-heading
+{
+	color: #fff!important;
+}
+.footer__widgets .socials
+{
+	text-align: left;
+}
+.section-wrap
+{
+	padding: 50px 0;
+}
+.footer__bottom
+{
+	padding-bottom: 20px;
+}
+.page-title
+{
+	padding: 50px 0;
+}
